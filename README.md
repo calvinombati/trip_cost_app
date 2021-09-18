@@ -1,6 +1,4 @@
-# trip_cost_app
-
-A new Flutter application.
+# Trip Cost calculator
 
 ## Getting Started
 
